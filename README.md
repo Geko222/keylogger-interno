@@ -5,6 +5,7 @@ Un Keylogger pero recolecta las pulsaciones de teclado del dispositivo el cual e
 
 ## IMPORTANTE
 
--Debemos de instalar antes la biblioteca Keylogger con el comado -> 'pip install keylogger'
+-Debemos de instalar antes la biblioteca Keylogger con el comado ↴
+`pip install keylogger`
 
 -Ejecutarlo en terminal Root
